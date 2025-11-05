@@ -1,0 +1,21 @@
+{
+  "name": "AIPEPE",
+  "symbol": "AIPEPE",
+  "description": "dasdas",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/a9d1a807-3df4-4a6e-83a0-b684bb342883-Screenshot 2025-11-04 124722.png",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/a9d1a807-3df4-4a6e-83a0-b684bb342883-Screenshot 2025-11-04 124722.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5TMbgA1QbLmDPGEy8Bm1dYhZnEGfL9b1uDHozQbfhy9N",
+        "share": 100
+      }
+    ]
+  }
+}
