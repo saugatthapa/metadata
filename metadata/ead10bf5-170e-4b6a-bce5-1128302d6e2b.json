@@ -1,0 +1,21 @@
+{
+  "name": "AIPEPE",
+  "symbol": "AIPEPE",
+  "description": "sadsadasd",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/b06a5fb7-7c78-4a26-878a-a81fa712d15f-Screenshot 2025-11-04 124722.png",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/b06a5fb7-7c78-4a26-878a-a81fa712d15f-Screenshot 2025-11-04 124722.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5TMbgA1QbLmDPGEy8Bm1dYhZnEGfL9b1uDHozQbfhy9N",
+        "share": 100
+      }
+    ]
+  }
+}
