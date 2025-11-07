@@ -1,0 +1,12 @@
+{
+  "name": "ThapaSIr",
+  "symbol": "AAA",
+  "description": "asdasdasd",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png"
+      }
+    ]
+  }
+}
