@@ -1,0 +1,12 @@
+{
+  "name": "ThapaSIr",
+  "symbol": "SIRTHAPA",
+  "description": "dondon",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png"
+      }
+    ]
+  }
+}
