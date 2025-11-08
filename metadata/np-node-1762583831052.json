@@ -1,0 +1,17 @@
+{
+  "name": "NP-node",
+  "symbol": "NP-NODE",
+  "description": "asdsadsadsaasdas",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/np-node-1762583827190.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/np-node-1762583827190.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "twitter": "x.com"
+  }
+}
