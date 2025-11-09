@@ -1,0 +1,14 @@
+{
+  "name": "aa",
+  "symbol": "AAA",
+  "description": "aaaa",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/aaa-1762718597796.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/aaa-1762718597796.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
