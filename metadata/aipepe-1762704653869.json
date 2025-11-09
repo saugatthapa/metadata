@@ -1,0 +1,14 @@
+{
+  "name": "AIPEPE",
+  "symbol": "AIPEPE",
+  "description": "sadasdas",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/aipepe-1762704652098.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/aipepe-1762704652098.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
