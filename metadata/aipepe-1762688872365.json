@@ -1,0 +1,17 @@
+{
+  "name": "AIPEPE",
+  "symbol": "AIPEPE",
+  "description": "sadsadasd",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/aipepe-1762688870663.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/aipepe-1762688870663.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "twitter": "x.com"
+  }
+}
