@@ -1,0 +1,14 @@
+{
+  "name": "AIPEPE",
+  "symbol": "THAPASIR",
+  "description": "sadasdasd",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/thapasir-1762699231014.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/thapasir-1762699231014.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
