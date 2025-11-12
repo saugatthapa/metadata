@@ -1,0 +1,21 @@
+{
+  "name": "LunaForge",
+  "symbol": "LUNAFORGE",
+  "description": "ghfjdkslazxnksjadkjalsfjsd",
+  "image": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/lunaforge-1762951735182.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/saugatthapa/metadata/main/images/lunaforge-1762951735182.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "lunaforge.online",
+    "twitter": "x.com",
+    "telegram": "telegram.com",
+    "revokeMint": true,
+    "mintAuthorityPrice": "0.05"
+  }
+}
